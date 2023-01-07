@@ -1,4 +1,4 @@
-# mikaelfilo-game1 Project
+# mikaelfilo-game-1 Project
 
 Faster player to reach 100 dice points
 
