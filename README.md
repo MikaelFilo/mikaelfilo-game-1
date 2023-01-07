@@ -2,4 +2,4 @@
 
 Faster player to reach 100 dice points
 
-Check online at: https://mikaelfilo-game1.netlify.app/
+Check online at: https://mikaelfilo-game-1.netlify.app/
